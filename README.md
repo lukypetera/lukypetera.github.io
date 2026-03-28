@@ -1,4 +1,4 @@
 # lukypetera.github.io
 informace - cs_CZ supports Czech
 
-wikipedie strana url: [later]
+[WIKIPEDIE](https://github.com/lukypetera/lukypetera.github.io/wiki)
